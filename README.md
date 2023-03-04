@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Radek and I'm Computer Science student from :poland: </p>
+<p align="left">My name is Radek and I'm Computer Science student from :flag-pl: </p>
 
 ###
 
